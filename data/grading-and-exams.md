@@ -5,25 +5,23 @@ hidden: false
 information_page: true
 ---
 
-The Java Programming MOOC contains University of Helsinki's courses Introduction to Programming (parts 1-7) and Advanced Course in Programming (parts 8-14). A free online exam will be held for both parts and both will be graded seperately.
+The course is graded by exercises completed and an exam at the end.
 
 The exam corresponding to Introduction to Programming is to be completed after parts 1-7. Likewise, the exam corresponding to Advanced Course in Programming is to be completed after parts 8-14.
 
-Both exams will be held on several different days. You can attend the exam on any of these days. You may attend multiple exams and only the best grade will be registered.
+You may attend multiple exams and only the best grade will be registered.
 
-## Upcoming exams
-
-**Detailed information on the upcomping exam can be found here: [https://java-programming.mooc.fi/exam](https://java-programming.mooc.fi/exam)**
+## Exam dates
 
 #### Introduction To Programming
 
-* ~~22.08.2020~~ canceled
-* 29.08.2020
+* 20.10.2020
+* 11.11.2020
 
 #### Advanced Course In Programming
 
-* ~~29.08.2020~~ canceled
-* 05.09.2020
+* 15.12.2020
+* 19.1.2021
 
 ## Points
 
@@ -72,11 +70,9 @@ The grading works as follows:
 
 The grade is based on both completed exercises (50% of course points) as well as the exam (50% of course points). This means that the course points for the scale can be calculated by adding together the exercise points for each part from the point visualization (blue circle at the bottom right of this page) and the points from the exam.
 
-You may attend the exam once you have gotten at least 25% of each part's programming exercise points.
-
 ##### Minimum point treshold
 
-To pass each course you must receive at least half of the corresponding exam's points.
+To pass each course you must receive at least half of the corresponding exam's points and complete at least 25% of each part's programming exercises.
 
 <!--
 
