@@ -30,11 +30,11 @@ The IDE we use on this course is called [NetBeans](https://netbeans.apache.org),
 
 To start the course you need (1) a MOOC.fi account, which you can create at the top of this course material, (2) Java (Java JDK), and (3) Netbeans with TMC development environment (in the future TMC).
 
-All of these can be installed with the following instructions. **When following the instructions, select "MOOC" as your organization and "Java Programming I" as your course.** Installation instructions for Java and NetBeans can be found here: [Java and NetBeans installation guide](https://www.mooc.fi/en/installation/netbeans)
+All of these can be installed with the following instructions. **When following the instructions, select "Helsingin yliopisto" as your organization and "Java Programming 1 fall 2020" as your course.** Installation instructions for Java and NetBeans can be found here: [Java and NetBeans installation guide](https://www.mooc.fi/en/installation/netbeans)
 
 <!-- Kun olet luonut käyttäjätunnuksen ja asentanut Javan ja TMC:n, katso alla oleva video. Video näyttää mitä tapahtuu kun NetBeans with TMC -ohjelmointiympäristö käynnistetään ensimmäistä kertaa. Videolla valitaan organisaatio ja kurssi, sekä tehdään ensimmäinen ohjelmointitehtävä. -->
 
-Once you have created the user account and installed Java and TMC, watch the video below. The video demonstrates what happens when 'Netbeans with TMC' is opened for the first time. We select the organization and course, and do the first programming exercise. In the video, the user selects the 2019 course, but you should remember to **select Java Programming I as your course**!
+Once you have created the user account and installed Java and TMC, watch the video below. The video demonstrates what happens when 'Netbeans with TMC' is opened for the first time. We select the organization and course, and do the first programming exercise. In the video, the user selects the 2019 course, but you should remember to **select Java Programming 1 fall 2020 as your course**!
 
 <youtube id="zvE8XA8D0gE"></youtube>
 
