@@ -3,6 +3,7 @@ path: '/part-6'
 title: 'Part 6'
 overview: true
 hidden: false
+upcoming: "6.10"
 ---
 
 <!-- Kurssimateriaalin kuudennessa osassa käsitellään olioista koostuvia olioita sekä tutustutaan tekstikäyttöliittymän ja sovelluslogiikan eriyttämiseen. -->

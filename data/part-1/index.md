@@ -3,6 +3,7 @@ path: '/part-1'
 title: 'Part 1'
 overview: true
 hidden: false
+upcoming: "1.9"
 ---
 
 Welcome to learning programming! The first part of the course focuses on taking the plunge with programming and getting familiar with all the required tools.

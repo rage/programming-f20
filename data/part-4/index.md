@@ -1,9 +1,9 @@
 ---
 path: '/part-4'
-#title: 'Osa 4'
 title: 'Part 4'
 overview: true
 hidden: false
+upcoming: "22.9"
 ---
 
 <!-- Kurssimateriaalin neljännen osan pääteema on olio-ohjelmointi. Opit lukemaan tietoa tiedostoista ja esittämään sekä käsittelemään tietoa olioiden avulla. -->

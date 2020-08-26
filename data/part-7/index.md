@@ -3,6 +3,7 @@ path: '/part-7'
 title: 'Part 7'
 overview: true
 hidden: false
+upcoming: "13.10"
 ---
 
 <!-- Kurssimateriaalin seitsemännessä osassa käsitellään yleisiä ohjelmointiparadigmoja sekä algoritmiikkaa. Kurssi Ohjelmoinnin perusteet (TKT-10002) päättyy seitsemänteen osaan ja kurssi Ohjelmoinnin jatkokurssi (TKT-10003) alkaa kahdeksannesta osasta. -->
