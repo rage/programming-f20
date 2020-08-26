@@ -2,7 +2,7 @@ const courseSettings = {
   language: "en",
   name: "Java Programming",
   siteUrl: "https://java-programming.mooc.fi",
-  subtitle: "A free online course on learning Java",
+  subtitle: "A course on learning Java",
   slug: "java-programming-i",
   tmcCourse: "java-programming-i",
   quizzesId: "6a635a2d-4e4b-49cc-8487-8d9cab6a74e7",
@@ -28,7 +28,7 @@ const courseSettings = {
     { separator: true, title: "Java Programming I" },
   ],
   sidebarFuturePages: [
-  ], 
+  ],
   splitCourses: false,
   useNewPointsVisualization: false
 }
