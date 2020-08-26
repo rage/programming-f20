@@ -29,10 +29,6 @@ Please contact the course assistants through the [support channels](/support-and
 
 If you are able to fix the error yourself, such as a typo, you can open a pull request in the course material's Github repository: https://github.com/rage/java-programming.
 
-### How can I download the next part's exercises?
-
-The TMC add-on for NetBeans will suggest you to download the next part's exercises once you've gained 25% or more of the previous part's exercise points.
-
 ### Doing the exercises and returning them is slow on macOS
 
 Follow these instructions to fix the issue: https://materiaalit.github.io/tmc-asennus/macos-verkkoongelma/. The instructions are in Finnish, but you can seek guidance from the images until the instructions are translated.
@@ -62,11 +58,3 @@ Make sure you have Java Development Kit (JDK) version 11 installed. The environm
 ### The buttons to run and to send to the server on NetBeans are gray
 
 This usually indicates either a passed deadline or a wrong course being selected in `TMC` &rarr; `Settings`.
-
-### I want to apply for study right through the programming MOOC. Is this the right course?
-
-No, you cannot apply for the study right based on this course.
-
-### The next part should be opened today but I cannot access it
-
-There is no guarantee on the exact time a course part will become available. The material has usually been released around midday, but the release time may vary greatly. Thank you for your patience!
