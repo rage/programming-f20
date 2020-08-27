@@ -45,4 +45,4 @@ Great to have you on this journey!
 
 Please, take a moment to answer a self-reflective survey on the learning goals of the first part.
 
-<quiz id="25799beb-4e90-51d5-a4ad-41410c28245b"></quiz>
+<quiz id="ab10248e-d2f2-5f82-bce7-ce7cdddde11c"></quiz>

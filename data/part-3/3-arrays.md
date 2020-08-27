@@ -173,7 +173,7 @@ int number = numbers[index];
 System.out.println(number);
 ```
 
-<quiz id="8c630846-5a8e-5afd-a65b-d171baabca57"></quiz>
+<quiz id="1cff0ec9-a94d-51c6-9c2a-b2f6f7aca99e"></quiz>
 
 <programming-exercise name='Swap' tmcname='part03-Part03_18.Swap'>
 

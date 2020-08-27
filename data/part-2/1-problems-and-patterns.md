@@ -72,7 +72,7 @@ public class Program {
 }
 ```
 
-<quiz id="b7705d46-9213-4ec2-b144-f27d14cd7287"></quiz>
+<quiz id="0474e071-02f7-5038-b580-77907e373c9e"></quiz>
 
 
 <!-- ## Laskemista -->
@@ -390,7 +390,7 @@ The quiz below uses `System.out.print` for printing. It works exactly like `Syst
 
 </text-box>
 
-<quiz id="cf7bfa61-dc45-56f2-8913-fa8671dbfc4d"></quiz>
+<quiz id="aaeec8ae-520a-5232-a332-55ba9ae066f9"></quiz>
 
 
 <!-- Ehtotoiminnallisuutta voi yhdistää myös muiden ratkaisumallien kanssa. Tarkastellaan ongelmaa "Lue käyttäjältä kaksi lukua. Mikäli lukujen summa on yli 100, tulosta käyttäjälle merkkijono `liikaa`. Mikäli lukujen summa on alle 0, tulosta käyttäjälle merkkijono `liian vähän`. Muulloin, tulosta käyttäjälle merkkijono `ok`.". Ohjelma, joka yhdistää lukemisen, laskemisen ja ehtolauseen on annettu alla. -->

@@ -19,4 +19,4 @@ The journey continues with the Java Programming 2 Course, which begins with part
 
 **Note!** Completing this part ends the first part of this course, Java Programming 1, which runs from parts 1-7.
 
-<quiz id="a343e0af-8203-44a1-adce-d7d220813576"></quiz>
+<quiz id="7c7403a8-9a78-5d8c-b7cc-92b10f5885d0"></quiz>

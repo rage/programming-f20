@@ -524,9 +524,9 @@ The program calls the `youthen` method after this, which is given the `second` v
 
 Finally, the method execution ends, and the program returns to the main method where the value of the variable first is printed one more time. The final result of the print is "First(1972)".
 
-<quiz id='9e71b471-4487-5886-9f31-b8af27fade92'></quiz>
+<quiz id='4e50b95f-fe6c-5923-afe8-b5379ce2b833'></quiz>
 
-<quiz id='3bd4e869-0dba-506f-8d7a-0d2153055cc8'></quiz>
+<quiz id='db202757-d09f-5bbd-b0d1-8a488c70a96e'></quiz>
 
 
 

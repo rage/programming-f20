@@ -383,7 +383,7 @@ public static void thisMethodSaysWoof() {
 }
 ```
 
-<quiz id="affd4181-8c25-43c5-b81c-e8a411498ac6"></quiz>
+<quiz id="865613b8-bb65-5158-9058-96a3c7611189"></quiz>
 
 <!-- ##  Metodin parametrit -->
 
@@ -875,7 +875,7 @@ When the variable `number` is incremented inside the method, there's no issue. T
 The parameter `number` is copied for the method's use, i.e., a new variable called `number` is created for `incrementByThree` method, to which the value of the variable`number` in the main program is copied during the method call. The variable `number` inside the method `incrementByThree` exists only for the duration of the method's execution and has no relation to the variable of the same name in the main program.
 
 
-<quiz id="1ec65f26-f66e-55d9-aa22-5a36ae9e3484"></quiz>
+<quiz id="be9fb6d8-fcfa-5750-81c3-6dcf97d73e08"></quiz>
 
 
 <!-- ## Metodi voi palauttaa arvon -->
@@ -1283,7 +1283,7 @@ public static void main(String[] args) {
 
 Here, the method call occurs first returning the value 5.0, which is then printed with the help of the print statement.
 
-<quiz id="0fcb023f-22d0-5e8f-bf40-54307efb0077"></quiz>
+<quiz id="756c6475-e19d-5502-b120-7f356c4d1e27"></quiz>
 
 
 
@@ -1418,7 +1418,7 @@ public static int sum(int first, int second) {
 Now the value of the variable `number1` is copied as the value of the method parameter `first`, and the value of the variable `number2` is copied as the value of the parameter `second`.
 
 
-<quiz id="fa98830f-8715-5acb-ae72-aad063574ae0"></quiz>
+<quiz id="e9db1b5b-d56f-5712-8a8b-3c072c4daea5"></quiz>
 
 
 <youtube id='zEHvycTo81c'></youtube>
