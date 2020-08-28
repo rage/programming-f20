@@ -2,7 +2,7 @@
 path: '/part-1'
 title: 'Part 1'
 overview: true
-hidden: false
+hidden: true
 upcoming: "1.9"
 ---
 
