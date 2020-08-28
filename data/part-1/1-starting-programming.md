@@ -16,7 +16,7 @@ hidden: false
 
 </text-box>
 
-<quiz id="ae09155d-d056-5662-9611-f322cd50959d"></quiz>
+<quiz id="13a7f727-6c4d-5bb0-b152-5682e4db7c41"></quiz>
 
 <!-- Nykyaikainen ohjelmointi tapahtuu lähes poikkeuksetta ohjelmointiympäristössä. Ohjelmointiympäristö sisältää joukon ohjelmoijaa auttavia aputoimintoja. Se ei rakenna ohjelmaa ohjelmoijan puolesta, mutta se muunmuassa vinkkaa helpoista virheistä ohjelmakoodissa ja auttaa ohjelmoijaa hahmottamaan ohjelman rakennetta. -->
 
@@ -110,4 +110,4 @@ Java programs require a certain frame around the code to work. Don't worry if it
 
 You'll find the first quiz of the course below. You can answer the quizzes right here in the course material.
 
-<quiz id="398ad482-25d6-5817-8d95-375c4d15452c"></quiz>
+<quiz id="d8b382e3-8210-59a6-a447-30d98ad97526"></quiz>

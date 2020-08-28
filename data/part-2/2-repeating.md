@@ -323,7 +323,7 @@ while (true) {
 <!-- TODO: tänne tarttee visualisoinnin -->
 <!-- TODO: this requires a visualization -->
 
-<quiz id="dd3c81f5-4644-5add-a6bb-6a54a488fd08"></quiz>
+<quiz id="908c0775-0cd6-57db-a078-626a828bde28"></quiz>
 
 <!-- <programming-exercise name="Syötteiden rajaus" tmcname='osa02-Osa02_07.SyotteidenRajaus'> -->
 <programming-exercise name="Only positives" tmcname='part02-Part02_07.OnlyPositives'>

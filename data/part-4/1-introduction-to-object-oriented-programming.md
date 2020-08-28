@@ -176,7 +176,7 @@ Write a program that:
 
 </programming-exercise>
 
-<quiz id='6fb599b4-6b3c-5249-9116-ecf77a063916'></quiz>
+<quiz id='42b6c0c3-e386-5573-b395-d27527dfcc24'></quiz>
 
 <!-- ## Luokan luominen -->
 
@@ -1545,7 +1545,7 @@ Pekka's and Antti's combined age 3 years
 
 </sample-output>
 
-<quiz id='d275c777-b081-5d8d-9efb-9247a17c8ea7'></quiz>
+<quiz id='11daef49-732b-54bc-a468-8a9cab60c451'></quiz>
 
 <!-- <programming-exercise name='Musiikkikappale' tmcname='osa04-Osa04_10.Musiikkikappale'> -->
 <programming-exercise name='Song' tmcname='part04-Part04_10.Song'>

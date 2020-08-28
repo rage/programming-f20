@@ -44,7 +44,7 @@ Open the questionnaire by following the link
 
 </ab-study>
 
-<quiz id="4cfaebe8-734a-4bd1-8881-488f3f96b923"></quiz>
+<quiz id="5a8b2de7-29df-520f-b827-9b1c8d5aaabd"></quiz>
 
 
 <!-- Tutustuimme syötteen lukemisen yhteydessä jo pikaisesti merkkijonomuuttujiin. Tutustutaan seuraavaksi muihin usein käytettyihin Javan muuttujatyyppeihin. -->

@@ -529,7 +529,7 @@ Similarly, by calling the method `get` with the parameter 4 the fifth number in 
 
 </text-box>
 
-<quiz id="74f0a85a-ca71-5c4a-b21a-8065653a2187"></quiz>
+<quiz id="4e787d2b-3a1e-5a1c-b89f-7df2998a4126"></quiz>
 
 <!-- <text-box variant='hint' name='Useamman Javan valmiin työvälineen tuominen ohjelmaan'> -->
 
@@ -1834,9 +1834,9 @@ Index 1 so the second value: 24
 
 </sample-output>
 
-<quiz id="c4470859-e0d1-5d22-a9d9-134360c56cab"></quiz>
+<quiz id="1885bd5e-e3e6-5fca-859c-1e97d9bef7a5"></quiz>
 
-<quiz id="a3a40d42-e0c2-5cd1-811e-dda9e056c5a0"></quiz>
+<quiz id="51aba9c8-88c5-5ca1-957e-81176cc7c5e2"></quiz>
 
 <!-- Arvon hakeminen listalta onnistuu listan metodilla **contains**. Metodi saa haettavan arvon parametrina ja palauttaa boolean-tyyppisen arvon (`true` tai `false`), joka kertoo löytyykö haettua arvoa listalta. -->
 
