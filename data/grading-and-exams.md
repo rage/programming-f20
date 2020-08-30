@@ -29,7 +29,7 @@ Exercise points are given for all completed exercises in all parts. You can find
 
 # Course grading
 
-Two grades will be given for the Java Programming MOOC that correspond to courses Introduction to Programming (parts 1-7) and Advanced Course in Programming (parts 8-14). Both will be graded on the following scale:
+Two grades will be given for the Java Programming courses that correspond to courses Introduction to Programming (parts 1-7) and Advanced Course in Programming (parts 8-14). Both will be graded on the following scale:
 
 <table>
     <thead>
