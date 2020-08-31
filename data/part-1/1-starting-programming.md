@@ -60,6 +60,10 @@ After installation a TMC-icon will appear in the sidebar. Click on it to login a
 
 For a smoother programming experience consider installing the `Java Extension Pack`-plugin as well. You can search for it in the vscode extensions tab.
 
+<notice>
+Vscode is not ideal for this course and has some problems. We recommend using NetBeans.
+</notice>
+
 <h4>Intellij IDEA</h4>
 
 A plugin for Intellij IDEA exists as well but it is no longer supported so you'll have to figure out the installation on your own.
