@@ -34,6 +34,8 @@ All of these can be installed with the following instructions. **When following 
 
 <!-- Kun olet luonut käyttäjätunnuksen ja asentanut Javan ja TMC:n, katso alla oleva video. Video näyttää mitä tapahtuu kun NetBeans with TMC -ohjelmointiympäristö käynnistetään ensimmäistä kertaa. Videolla valitaan organisaatio ja kurssi, sekä tehdään ensimmäinen ohjelmointitehtävä. -->
 
+
+
 Once you have created the user account and installed Java and TMC, watch the video below. The video demonstrates what happens when 'Netbeans with TMC' is opened for the first time. We select the organization and course, and do the first programming exercise. In the video, the user selects the 2019 course, but you should remember to **select Java Programming 1 fall 2020 as your course**!
 
 <youtube id="zvE8XA8D0gE"></youtube>
@@ -41,6 +43,34 @@ Once you have created the user account and installed Java and TMC, watch the vid
 <!-- Alla on kurssin ensimmäinen ohjelmointitehtävä. Tutustut tehtävässä käytettyyn ohjelmointiympäristöön. -->
 
 This is the first programming exercise of this course. In this exercise, you'll familiarize yourself with the development environment.
+
+<text-box variant="hint" name="Some Netbeans alternatives">
+
+NetBeans can sometimes be troublesome to get running. Here are some alternatives.
+
+<h4>vscode</h4>
+
+If you run into insurmountable problems with NetBeans you can try installing vscode, a powerful text editor, on your machine.
+
+Installation instructions can be found at: https://code.visualstudio.com/.
+
+To install `TestMyCode`-plugin for vscode simply search the extension marketplace with keyword `tmc` and install TestMyCode. Remember to install java correctly as well.
+
+After installation a TMC-icon will appear in the sidebar. Click on it to login and downlowad the exercises.
+
+For a smoother programming experience consider installing the `Java Extension Pack`-plugin as well. You can search for it in the vscode extensions tab.
+
+<h4>Intellij IDEA</h4>
+
+A plugin for Intellij IDEA exists as well but it is no longer supported so you'll have to figure out the installation on your own.
+
+<h4>tmc-cli</h4>
+
+You can also use TMC straigth from the command-line. This is nice if you're used to oldschool text editors like Vim or emacs.
+
+Installation instructions can be found at: https://github.com/testmycode/tmc-cli
+
+</text-box>
 
 <programming-exercise name='Sandbox' tmcname='part01-Part01_01.Sandbox'>
 
