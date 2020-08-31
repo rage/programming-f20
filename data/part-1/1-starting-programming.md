@@ -50,6 +50,10 @@ NetBeans can sometimes be troublesome to get running. Here are some alternatives
 
 <h4>vscode</h4>
 
+<notice>
+Vscode is not ideal for this course and has some problems. We recommend using NetBeans.
+</notice>
+
 If you run into insurmountable problems with NetBeans you can try installing vscode, a powerful text editor, on your machine.
 
 Installation instructions can be found at: https://code.visualstudio.com/.
@@ -59,10 +63,6 @@ To install `TestMyCode`-plugin for vscode simply search the extension marketplac
 After installation a TMC-icon will appear in the sidebar. Click on it to login and downlowad the exercises.
 
 For a smoother programming experience consider installing the `Java Extension Pack`-plugin as well. You can search for it in the vscode extensions tab.
-
-<notice>
-Vscode is not ideal for this course and has some problems. We recommend using NetBeans.
-</notice>
 
 <h4>Intellij IDEA</h4>
 
