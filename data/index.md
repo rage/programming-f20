@@ -18,6 +18,11 @@ Remember to sign up for the course in weboodi.
 
 The course is split up into two individual courses: Java Programming 1(TKT10002, 5 ects) and Java Programming 2(TKT10003, 5 ects). Each course consists of seven parts, each with its own exercise set. Completing a single part takes approximately 5-20 hours, and we recommend reserving at least 10 hours per part, depending on prior skills with computers.
 
+## Lecture Links and Captures
+
+*Next lecture: Thursday 03.10.2020 10.15*
+* [Zoom link](https://helsinki.zoom.us/j/61038510251?pwd=bUtyL25jeWVqUHp1QytqcUR5dk5aZz09)
+
 ## Timetable
 
 <table>
