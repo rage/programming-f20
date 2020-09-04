@@ -5,7 +5,7 @@ const courseSettings = {
   subtitle: "A course on learning Java",
   slug: "java-programming-i",
   tmcCourse: "java-programming-i",
-  quizzesId: "6a635a2d-4e4b-49cc-8487-8d9cab6a74e7",
+  quizzesId: "2df6bcae-b5b4-4c73-9f0e-397c9dd0de50",
   tmcOrganization: "mooc",
   bannerPath: "banner.svg",
   sidebarEntries: [
