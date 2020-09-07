@@ -2,8 +2,7 @@
 path: '/part-2'
 title: 'Part 2'
 overview: true
-hidden: true
-upcoming: "8.9"
+hidden: false
 ---
 
 <!-- Kurssimateriaalin toisen osan pääteemoina ovat ohjelman toistaminen sekä toiminnallisuuden pilkkominen erillisiksi kokonaisuuksiksi. -->
