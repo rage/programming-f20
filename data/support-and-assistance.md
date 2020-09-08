@@ -22,10 +22,8 @@ If you ask for help in the channel, you may add a link to your program code. You
 
 Initial schedule:
 
-* Tuesday 16:00-18:00
-* Friday 12:00-14:00
-
-* Zoom link: [https://helsinki.zoom.us/j/67284471929](https://helsinki.zoom.us/j/67284471929)
+* Wednesday 16:00-18:00, Link: https://helsinki.zoom.us/j/67284471929
+* Friday 12:00-14:00, Link: https://helsinki.zoom.us/j/68443475384
 
 ## Email
 

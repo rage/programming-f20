@@ -27,7 +27,7 @@ The course is split up into two individual courses: Java Programming 1(TKT10002,
 
 Initial schedule:
 
-* Tuesday 16:00-18:00, Link: https://helsinki.zoom.us/j/67284471929
+* Wednesday 16:00-18:00, Link: https://helsinki.zoom.us/j/67284471929
 * Friday 12:00-14:00, Link: https://helsinki.zoom.us/j/68443475384
 
 More times may be added later.
