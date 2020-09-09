@@ -1,12 +1,12 @@
 const courseSettings = {
   language: "en",
   name: "Java Programming",
-  siteUrl: "https://java-programming.mooc.fi",
+  siteUrl: "https://programming-f20.mooc.fi",
   subtitle: "A course on learning Java",
-  slug: "java-programming-i",
-  tmcCourse: "java-programming-i",
+  slug: "java-programming-f20",
+  tmcCourse: "java-1-f2020",
   quizzesId: "2df6bcae-b5b4-4c73-9f0e-397c9dd0de50",
-  tmcOrganization: "mooc",
+  tmcOrganization: "hy",
   bannerPath: "banner.svg",
   sidebarEntries: [
     {
