@@ -59,7 +59,7 @@ More times may be added later.
       <td>Part 3</td>
       <td>15.9.2020</td>
       <td>24.9.2020</td>
-      <t> <a href="https://youtu.be/-RGebtjvNCE">Capture</a></td>
+      <td> <a href="https://youtu.be/-RGebtjvNCE">Capture</a></td>
     </tr>
     <tr>
       <td>Part 4</td>
