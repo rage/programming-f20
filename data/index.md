@@ -65,6 +65,7 @@ More times may be added later.
       <td>Part 4</td>
       <td>22.9.2020</td>
       <td>1.10.2020</td>
+      <td><a href="https://youtu.be/LwJf_mjEcP0">Capture</a></td>
     </tr>
     <tr>
       <td>Part 5</td>
