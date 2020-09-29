@@ -2,8 +2,6 @@
 path: '/part-5'
 title: 'Part 5'
 overview: true
-hidden: true
-upcoming: "29.9"
 ---
 
 <!-- Kurssimateriaalin viides osa jatkaa neljännestä osasta alkaneen olio-ohjelmoinnin parissa. -->
