@@ -21,7 +21,7 @@ The course is split up into two individual courses: Java Programming 1(TKT10002,
 ## Lecture Links and Captures
 
 *Next lecture: Tuesday 06.10.2020 12.15*
-* [Zoom link](https://helsinki.zoom.us/j/67488989854?pwd=RHppMW1FK0p3TlgzMzhaQlZNWFNWUT09) *
+*[Zoom link](https://helsinki.zoom.us/j/67488989854?pwd=RHppMW1FK0p3TlgzMzhaQlZNWFNWUT09)*
 
 ## Zoom workshop
 
