@@ -77,6 +77,7 @@ More times may be added later.
       <td>Part 6</td>
       <td>6.10.2020</td>
       <td>15.10.2020</td>
+      <td><a href="https://youtu.be/7tpptE4Du98">Capture</a></td>
     </tr>
     <tr>
       <td>Part 7</td>
