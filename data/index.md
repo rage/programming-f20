@@ -83,6 +83,7 @@ More times may be added later.
       <td>Part 7</td>
       <td>13.10.2020</td>
       <td>22.10.2020</td>
+      <td><a href="https://youtu.be/on27dvpUxRk">Capture</a></td>
     </tr>
   </tbody>
 </table>
