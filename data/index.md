@@ -85,5 +85,40 @@ More times may be added later.
       <td>22.10.2020</td>
       <td><a href="https://youtu.be/on27dvpUxRk">Capture</a></td>
     </tr>
+      <tr>
+      <td>Part 8</td>
+      <td>27.10.2020</td>
+      <td>5.11.2020</td>
+    </tr>
+    <tr>
+      <td>Part 9</td>
+      <td>3.11.2020</td>
+      <td>12.11.2020</td>
+    </tr>
+    <tr>
+      <td>Part 10</td>
+      <td>10.11.2020</td>
+      <td>19.11.2020</td>
+    </tr>
+    <tr>
+      <td>Part 11</td>
+      <td>17.11.2020</td>
+      <td>26.11.2020</td>
+    </tr>
+    <tr>
+      <td>Part 12</td>
+      <td>24.11.2020</td>
+      <td>3.12.2020</td>
+    </tr>
+    <tr>
+      <td>Part 13</td>
+      <td>1.12.2020</td>
+      <td>10.12.2020</td>
+    </tr>
+    <tr>
+      <td>Part 14</td>
+      <td>8.12.2020</td>
+      <td>17.12.2020</td>
+    </tr>
   </tbody>
 </table>
