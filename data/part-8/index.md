@@ -2,25 +2,14 @@
 path: '/part-8'
 title: 'Part 8'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <please-login></please-login>
 
-<text-box variant="hint" name="Important: Switching to Part 2 from Part 1.">
-
-Before you can start part 2, you must:
-
-1. Switch the course from course settings to `Java Programming 2`. You can find the course settings from the top right corner of this page.
-
-2. Change the course in Nebeans to `Java Programming 2`. Select `TMC` -> `Settings` and click change course.
-
-</text-box>
-
-
 <text-box variant="hint" name="If you're starting the course from this part.">
 
-If you wish to start the course from part 2, please read the instructions on how to install the programming environment and how to return the exercises. While following the instructions select `Helsingin yliopisto` as your organisation and `Java Programming 2` as your course. You can find the instructions here: https://www.mooc.fi/en/installation/netbeans.
+If you wish to start the course from part 2, please read the instructions on how to install the programming environment and how to return the exercises. While following the instructions select `Helsingin yliopisto` as your organisation and `Java Programming fall 2020` as your course. You can find the instructions here: https://www.mooc.fi/en/installation/netbeans.
 
 </text-box>
 
