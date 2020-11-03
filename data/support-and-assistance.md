@@ -20,10 +20,8 @@ If you ask for help in the channel, you may add a link to your program code. You
 
 ## Zoom workshop
 
-Initial schedule:
-
-* Wednesday 16:00-18:00, Link: https://helsinki.zoom.us/j/67284471929
-* Friday 12:00-14:00, Link: https://helsinki.zoom.us/j/68443475384
+* Tuesday 12:00-14:00, Link: https://helsinki.zoom.us/j/64353754030
+* Wednesday 16:00-18:00, Link: https://helsinki.zoom.us/j/65636048873
 
 ## Email
 
