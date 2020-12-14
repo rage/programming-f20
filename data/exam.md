@@ -1,6 +1,6 @@
 ---
 path: "/exam"
-title: "Exam 11.11"
+title: "Exam 15.12"
 information_page: true
 ---
 
@@ -12,7 +12,7 @@ information_page: true
 ### Implementation
 
 * The exam is done in the same manner as the course exercises inside netbeans.
-* The exam can be taken on 11.11 between **10:00-22:00** finnish time.
+* The exam can be taken on 15.12 between **10:00-22:00** finnish time.
 * You have 4 hours to complete the exam.
 * The exam ends 22:00. If you wish to use the full 4 hours start before 18:00.
 
@@ -20,7 +20,7 @@ information_page: true
 
 * Open TMC-setting inside netbeans.
 * Change the organization to university of helsinki (Helsingin yliopisto).
-* Choose the course `Java programming 1 exam 11.11.2020`.
+* Choose the course `Java programming 2 exam 15.12.2020`.
 * Download the exercise templates.
 
 ### Exercise descriptions and starting the exam
