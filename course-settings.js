@@ -26,7 +26,7 @@ const courseSettings = {
       path: "/faq",
     },
     {
-      title: "Exam 11.11",
+      title: "Exam 15.12",
       path: "exam",
     },
     { separator: true, title: "Java Programming I" },
