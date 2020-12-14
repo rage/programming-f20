@@ -27,7 +27,7 @@ information_page: true
 
 * Exercise descriptions appear on <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a> on exam day.
 * Login with your usual mooc.fi credentials.
-* Choose `Java programming 1 11.11.2020`.
+* Choose `Java programming 2 15.12.2020`.
 * The exam begins when you click on the start button.
 
 ### Submitting the exercises
